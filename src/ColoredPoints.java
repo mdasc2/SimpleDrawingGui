@@ -1,4 +1,3 @@
-package Project4;
 /*
  * Andrew Chow
  * CS 111B
